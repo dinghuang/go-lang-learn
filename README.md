@@ -29,5 +29,6 @@ $ go env
 
 - ``01-main`` Hello World程序
 - ``02-variable`` 变量与内置数据类型
-
+- ``03-controll`` 流程控制(if, for, switch)
+- ``04-function`` 函数(functions)
 
